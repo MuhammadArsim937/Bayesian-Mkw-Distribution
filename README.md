@@ -29,7 +29,8 @@ classical benchmark. Estimator performance is evaluated using the posterior
 risk criterion, which serves as a fundamental measure of efficiency in Bayesian
 decision theory. The proposed methodology is applied to two real datasets and
 further validated through an extensive Monte Carlo simulation study based on
-10,000 replications. The results reveal consistent performance patterns across
+10,000 replications. The reliability of the posterior estimates was verified through 
+standard MCMC diagnostic tools. The results reveal consistent performance patterns across
 different prior distributions, namely Uniform, Jeffreys', and Gamma priors, as
 well as across varying levels of censoring. For small parameter values, the
 LINEX loss function frequently yields the minimum posterior risk, whereas for
