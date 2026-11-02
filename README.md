@@ -1,4 +1,4 @@
-# Bayesian Inference for the New Modified Kumaraswamy (NMKW) Distribution
+# Bayesian Inference for the New Modified Kumaraswamy (Mkw) Distribution
 
 Bayesian Estimation for the New Modified Kumaraswamy (NMKW) Distribution under
 Uncensored and Progressively Censored data using different Loss Functions.
